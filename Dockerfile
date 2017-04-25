@@ -1,6 +1,6 @@
-FROM alpine:3.4
+FROM alpine:3.5
 
-MAINTAINER WebOps <webops_team@pebble.com>
+MAINTAINER Chase Sillevis <chase@sillevis.net>
 
 RUN apk --update add \
     python \
